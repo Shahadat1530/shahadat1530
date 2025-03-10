@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Md. Shahadat Hossain</h1>
 <h3 align="center">Web Developer | Frontend Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-## 🚀 About Me  
+### 🚀 About Me  
 
 I am a passionate **Web Developer** specializing in **Frontend Development** with experience in **React.js, Tailwind CSS, Firebase, and the MERN Stack**.  
 I love crafting interactive and visually appealing user interfaces while keeping code clean and optimized.  
@@ -18,7 +19,7 @@ I love crafting interactive and visually appealing user interfaces while keeping
 
 ---
 
-## 📢 Connect with Me  
+### 📢 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/md-s-hossain" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -30,7 +31,7 @@ I love crafting interactive and visually appealing user interfaces while keeping
 
 ---
 
-## 🛠 Languages & Tools  
+### 🛠 Languages & Tools  
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
